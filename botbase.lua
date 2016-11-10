@@ -8,7 +8,7 @@ serpent = require('serpent')
 ltn12 = require ('ltn12')
 json = (loadfile "./libs/JSON.lua")()
 version = '6.9'
-bot_api_key = '' -- set token
+bot_api_key = '298763599:AAHAQEcJAZgKrA0UuMBP2YQNn4_O5INFMY0' -- set token
 bot_sudo = 216507730 -- set sudo
 --functions
 function vardump(value)
